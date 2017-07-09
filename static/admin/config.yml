@@ -1,5 +1,5 @@
 backend:
-  name: bitbucket
+  name: github
   repo: mmmcdev/prototype.mmmc.me # Path to your Github repository
   branch: master # Branch to update
 
