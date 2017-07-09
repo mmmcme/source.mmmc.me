@@ -1,0 +1,7 @@
+backend:
+  name: bitbucket
+  repo: mmmcdev/prototype.mmmc.me # Path to your Github repository
+  branch: master # Branch to update
+
+publish_mode: editorial_workflow
+
